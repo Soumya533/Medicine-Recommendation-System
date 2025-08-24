@@ -14,3 +14,7 @@ Privacy and Security: We prioritize user privacy and data security. Your health 
 Continuous Improvement: Our system is designed for continuous improvement. As we gather more data, the machine learning models evolve, providing increasingly accurate and relevant recommendations.
 
 Take charge of your health with our Personalized Medical Recommendation System. Your well-being is our priority, and we're dedicated to providing you with the tools and insights you need for a healthier, happier life.
+
+
+Explore the demo of project here(Linkdin Post):
+https://www.linkedin.com/posts/soumyashree-rath-450566288_aiforgood-healthtech-aiprojects-activity-7351526007708798976-fWTV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEXZjPwBGAIU2tq539HBrkSbbVH0Cmwi4yQ
